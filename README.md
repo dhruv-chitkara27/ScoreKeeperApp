@@ -3,7 +3,7 @@
 ## Usage:
 
 * RecyclerView
-* Useage Of Timer Function
+* Usage Of Timer Function
 * Usage of SplashScreen Activity
 * Usage of Adapter
 * Usage of [FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)
